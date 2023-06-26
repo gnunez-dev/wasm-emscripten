@@ -1,0 +1,12 @@
+{
+  "name": "starded-width-webassembly",
+  "version": "1.0.0",
+  "main": "server.js",
+  "license": "MIT",
+  "scripts": {
+    "start": "nodemon server.js"
+  },
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
